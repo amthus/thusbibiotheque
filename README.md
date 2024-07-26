@@ -43,9 +43,20 @@ Ce projet est une application Laravel pour la gestion d'une bibliothèque. Il pe
 
 3. **Configurez l'Environnement :**
 
-   Copiez le fichier  `.env` et configurez les paramètres de base de données.
+Configurez les paramètres de la base de données
 
-   Modifiez le fichier `.env` pour correspondre à votre configuration de base de données.
+Pour adapter la configuration de votre base de données, veuillez suivre les étapes suivantes :
+
+Accédez au fichier .env : Ouvrez le fichier .env situé à la racine de votre projet.
+
+Modifiez les paramètres de la base de données : Mettez à jour les valeurs des variables d'environnement pour refléter les paramètres de votre base de données. Cela inclut généralement les éléments suivants :
+
+DB_CONNECTION : Type de connexion à la base de données (par exemple, mysql, pgsql).
+DB_HOST : Adresse du serveur de base de données.
+DB_PORT : Port utilisé par le serveur de base de données.
+DB_DATABASE : Nom de la base de données.
+DB_USERNAME : Nom d'utilisateur pour se connecter à la base de données.
+DB_PASSWORD : Mot de passe associé à l'utilisateur de la base de données.
 
 4. **Générez la Clé d'Application :**
 
@@ -86,7 +97,7 @@ Ce projet est une application Laravel pour la gestion d'une bibliothèque. Il pe
 
 ### Liste des Auteurs
 
-![Liste des Auteurs](img/LISTaUTEUR.png)
+![Liste des Auteurs](./public/img/LISTaUTEUR.png)
 
 ### Détail d'un Auteur
 
