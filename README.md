@@ -117,7 +117,7 @@ vos aurais besoin de peu de connection pour cause du lien cdn tailwind.css utils
 
 Les contributions sont les bienvenues. Veuillez soumettre un pull request pour toute amélioration ou correction. Assurez-vous de suivre les bonnes pratiques de développement et de tester vos modifications.
 
-## License
+## work
 
-Ce projet est sous licence [Malthus AMETEPE](LICENSE).
+Ce projet est fait par [Malthus AMETEPE](LICENSE).
 
