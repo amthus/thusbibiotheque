@@ -51,9 +51,9 @@ Accédez au fichier .env
 Ouvrez le fichier .env à la racine de votre projet.
 Modifiez les paramètres de la base de données
 
--**DB_CONNECTION : Type de connexion (mysql, pgsql, etc.).
--**DB_HOST : Adresse du serveur de base de données.
--**DB_PORT : Port du serveur de base de données.
+DB_CONNECTION : Type de connexion (mysql, pgsql, etc.).
+DB_HOST : Adresse du serveur de base de données.
+DB_PORT : Port du serveur de base de données.
 DB_DATABASE : Nom de la base de données.
 DB_USERNAME : Nom d'utilisateur pour la connexion.
 DB_PASSWORD : Mot de passe associé à l'utilisateur.
